@@ -1,0 +1,11 @@
+a=int(input())
+b=int(input())
+s=a+b
+d=a-b
+p=a*b
+q=a/b
+fq=a//b
+r=a%b
+e=a**b
+t=s+d+p+q+fq+r+e
+print(s,d,p,q,fq,r,e,sep='\n')
