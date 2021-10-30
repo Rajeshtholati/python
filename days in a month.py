@@ -14,12 +14,12 @@ elif m==6:
 elif m==7:
     print('month 7 has 31 days')
 elif m==8:
-    print('month 8 has 30 days')
+    print('month 8 has 31 days')
 elif m==9:
-    print('month 9 has 31 days')
+    print('month 9 has 30 days')
 elif m==10:
-    print('month 10 has 30 days')
+    print('month 10 has 31 days')
 elif m==11:
-    print('month 11 has 31 days')
+    print('month 11 has 30 days')
 elif m==12:
-    print('month 12 has 30 days')
+    print('month 12 has 31 days')
